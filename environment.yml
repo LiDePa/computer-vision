@@ -1,0 +1,15 @@
+name: CVIS2425
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+- python=3.10
+- pip
+- ipython
+- ipykernel
+- numpy
+- matplotlib
+- scipy
+- ipympl
+- opencv
+- pytorch::pytorch
